@@ -40,7 +40,7 @@
 
             <!-- Log In Button -->
             <div class="uk-margin">
-                <button class="uk-button uk-button default" type="submit">Log In</button>
+                <button class="uk-button uk-button default" style="border:1px solid gray" type="submit">Log In</button>
             </div>
           </form>
         </div>

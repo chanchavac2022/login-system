@@ -9,7 +9,7 @@
     <meta http-equiv="X.UA.Compatible" content="IE=edge">
     <meta name="robots" content="follow">
     <meta name="viewport" content="width=device-width, initial-scale=1">       
-    <title>Login Page</title>
+    <title>Register Page</title>
 
     <!-- UIkit CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.3.7/dist/css/uikit.min.css" />
@@ -19,7 +19,6 @@
         <div class="uk-grid uk-child-width-1-3@s uk-child-width-1-1" uk-grid>
 
           <form class="uk-form-stacked js-register">
-
             <h2>Register<h2>
 
             <!-- Email textbox -->
@@ -40,7 +39,7 @@
 
             <!-- Register Button -->
             <div class="uk-margin">
-                <button class="uk-button uk-button default" type="submit">Register</button>
+              <button class="uk-button uk-button default" style="border:1px solid gray" type="submit">Register</button>
             </div>
 
           </form>
