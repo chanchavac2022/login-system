@@ -37,6 +37,9 @@
               </div>
             </div>
 
+            <!-- Error Message -->
+            <div class="uk-margin uk-alert uk-alert-danger js-error" style='display: none;'></div>
+
             <!-- Register Button -->
             <div class="uk-margin">
               <button class="uk-button uk-button default" style="border:1px solid gray" type="submit">Register</button>
